@@ -1,0 +1,4 @@
+-r 'constants'
+-r 'roar/factory'
+--color
+-f documentation
